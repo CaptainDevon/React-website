@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 The created website link is given below:
-https://react-website-steel-sigma.vercel.app/
+https://react-website-gamma-blond.vercel.app/
